@@ -1,1 +1,1 @@
-module testmod
+module github.com/codeskyblue/testmod
